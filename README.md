@@ -1,3 +1,5 @@
 # basic
 
-basic setting of every projects.
+Basic settings of every projects.
+
+young.
